@@ -14,8 +14,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL]()
-- [Live Site URL]()
+- [Solution URL](https://www.frontendmentor.io/solutions/faq-accordion-card-using-html-css-flexbox-and-grid-kKqIPWxC0B)
+- [Live Site URL](https://marilisa-saldanha.github.io/faq-accordion-card/)
 
 ## My process
 
